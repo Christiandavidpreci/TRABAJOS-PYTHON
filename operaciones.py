@@ -14,3 +14,15 @@ print("multiplicacion es",multiplicacion)
 #division
 division=dato1/dato2
 print("division es",division )
+#suma
+suma=dato1+dato2
+print("suma es",suma)
+#resta
+resta=dato1-dato2
+print("resta es",resta)
+#multipliacion
+multiplicacion=dato1*dato2
+print("multiplicacion es",multiplicacion)
+#division
+division=dato1/dato2
+print("division es",division )
